@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300..900&family=Fredericka+the+Great&family=Inconsolata:wght@200..900&family=Orbitron:wght@400..900&family=Playfair+Display+SC:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&family=Poiret+One&display=swap');
+body {
+  background-color: #FEF7F2;
+}
+img{
+  align-self: baseline;
+  size: 3vw;
+}
+h1 {
+  font-family: "Inconsolata", monospace;
+  color: rgb(91, 3, 3);
+  text-align: left;
+  font-size:3vw;/*fontin koko skaalaantuu näytönkokoon*/
+}
+nav{
+  text-align: right;
+}
+nav a{
+ text-decoration: none;
+ font-size: 23px;
+ color:rgb(91, 3, 3);
+ border: black solid 2px;
+ padding: 5px;
+ margin-bottom: 10px;
+ display: inline-block;
+ width: 8em;
+}
+.sivulla{
+  color: blueviolet;
+  background-color: brown;
+}
+p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+  font-size: 20px;
+  color: rgb(91, 3, 3);
+}
